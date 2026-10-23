@@ -56,3 +56,25 @@
  .contact-form input{min-width:0}
  .gallery{grid-auto-rows:125px}
 }
+
+/* Affichage mobile plus compact, version ordinateur préservée */
+@media(max-width:720px){
+ .hero-content{padding-top:43px;padding-bottom:52px}
+ .hero .eyebrow{margin-bottom:13px}
+ .hero h1{margin-bottom:13px}
+ .hero-lead{margin-bottom:17px}
+ .hero-foot-inner{padding:11px 0}
+ .section{padding:36px 0}
+ .intro-top,.gallery-head{margin-bottom:17px}
+ .services{gap:0}
+ .service{padding:15px 17px 14px}
+ .service-icon{margin-bottom:7px}
+ .service p{margin-bottom:10px}
+ .gallery{grid-auto-rows:130px}
+ .gallery-item.feature{height:180px}
+ .about-image{height:240px}
+ .location{padding:34px 0}
+ .contact-form{padding:18px 15px}
+ .contact-form textarea{min-height:84px}
+ .contact-form input,.contact-form select{font-size:16px}
+}
