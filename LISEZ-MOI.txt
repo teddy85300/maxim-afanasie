@@ -1,0 +1,20 @@
+SITE MAXIM AFANASIE — CONSTRUCTION & RÉNOVATION
+================================================
+
+Le site contient : index.html, styles.css, script.js, config.js, images/ (10 photos).
+
+À FAIRE AVANT PUBLICATION OFFICIELLE :
+1. Numéro de téléphone ajouté : 06 95 04 04 02. Il reste à renseigner l’adresse e-mail professionnelle dans config.js.
+2. Vérifier avec Maxim les textes et la zone d'intervention (Romorantin-Lanthenay et environs).
+3. Obtenir son accord pour la publication des photographies et des coordonnées.
+4. Vérifier les obligations légales applicables : mentions légales (identité et coordonnées de l'éditeur, hébergeur, etc.), assurances et mentions propres au bâtiment si requises, confidentialité si de nouveaux services collectent des données.
+5. Le formulaire prépare un e-mail dans le logiciel du visiteur. Il n'envoie pas directement de message. Pour un formulaire serveur, prévoir un service adapté.
+
+PUBLICATION CLOUDFLARE PAGES :
+- Décompresser l'archive.
+- Publier le CONTENU du dossier (index.html à la racine, avec images/).
+- Aucun npm, compilation ou installation nécessaire.
+
+Photos : 10 images fournies par le client, présentant différents angles d'un même chantier.
+Le site n'affiche pas de faux avis, de faux chiffres, ni de coordonnées inventées.
+SIRET fourni : 94121937000017.
